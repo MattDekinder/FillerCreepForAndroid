@@ -2,7 +2,7 @@
 
 public class testclass
 {
-  private void foo{
+  private void foo (int bar){
     
-  }
+  };
 }
